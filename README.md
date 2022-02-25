@@ -18,7 +18,7 @@ This Case study identify trends and insights into how non-Bellabeat smart device
 * **Output:** Bellabeat Case
 
 # [Project 2: Cyclistic Case Study](https://www.kaggle.com/kyle007hendricks/cyclistic-case1)
-![alt text](markus-winkler-yeaUOU4JQxg-unsplash.jpg)
+![alt text](markus-winkler-yeaUOU4JQxg-unsplash.jpg) 
 
 Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/bike-sharing-service?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
