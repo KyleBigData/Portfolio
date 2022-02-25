@@ -9,6 +9,7 @@
 # [Project 1: Bellabeat_Case](https://www.kaggle.com/kyle007hendricks/bellabeat-caser)
 ![alt text](https://github.com/KyleBigData/Portfolio/blob/main/bellabeat.jpg?raw=true)
 
+Photo by Bellabeats' Facebook page.
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
