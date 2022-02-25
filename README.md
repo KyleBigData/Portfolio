@@ -20,7 +20,8 @@ This project integrates various news source for performing sentiment analysis pe
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](wance-paleri-NvZQct9lZmU-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@wance0003000?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wance Paleri</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading-wance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
