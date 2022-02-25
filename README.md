@@ -33,7 +33,7 @@ This Case Study identifies trends and insights into how existing casual riders a
 # [Project 2: Amazon Books Case Study](https://www.kaggle.com/kyle007hendricks/amazon-books-case)
 ![alt text](markus-winkler-yeaUOU4JQxg-unsplash.jpg) 
 
-Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/bike-sharing-service?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@fahrulazmi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fahrul Azmi</a> on <a href="https://unsplash.com/s/photos/amazon-books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
 This project looks at the top 50 books from 2009-2019 including 550 books &, identifies trends into how certain authors influence positive ratings(whether or not certain authors are more popular amongst raters), whether or not price is a big indicator in terms of the book choices people make and whether people prefer non-fiction or fiction books.
