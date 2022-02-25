@@ -1,6 +1,6 @@
 
 # Kyle 'Big Data' Hendricks
-*An Aspiring Data Scientist | Kaggle Novice*
+*An Aspiring Data Analyst | Kaggle Novice*
 
 # Education
 * Honors (Psychology, *University of the Western Cape*, 2007- 2013
