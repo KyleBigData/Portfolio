@@ -6,7 +6,7 @@
 * Honors (Psychology, *University of the Western Cape*, (2007- 2013)
 * Data Analytics Certificate (Data analytics), *Coursera*, (2022)
 
-# [Project 1: Bellabeat_Case Study](https://www.kaggle.com/kyle007hendricks/bellabeat-caser)
+# [Project 1: Bellabeat_Case Study](https://www.kaggle.com/kyle007hendricks/bellabeat-case-study)
 ![alt text](https://github.com/KyleBigData/Portfolio/blob/main/bellabeat.jpg?raw=true)
 
 Photo collected from Bellabeats' Facebook page .
