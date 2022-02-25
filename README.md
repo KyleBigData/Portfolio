@@ -3,8 +3,8 @@
 *An Aspiring Data Analyst | Kaggle Novice*
 
 # Education
-* Honors (Psychology, *University of the Western Cape*, 2007- 2013
-* Data Analytics Certificate (Data analytics), *Coursera*, 2022
+* Honors (Psychology, *University of the Western Cape*, (2007- 2013)
+* Data Analytics Certificate (Data analytics), *Coursera*, (2022)
 
 # [Project 1: Bellabeat_Case Study](https://www.kaggle.com/kyle007hendricks/bellabeat-caser)
 ![alt text](https://github.com/KyleBigData/Portfolio/blob/main/bellabeat.jpg?raw=true)
