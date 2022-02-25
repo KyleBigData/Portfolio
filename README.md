@@ -30,8 +30,8 @@ This Case Study identifies trends and insights into how existing casual riders a
 * **Notebook:** Fictional dataset of 12 CSV files from months (February 2021- Junuary 2022)
 * **Output:** Cyclistic Case Study
 
-# [Project 2: Amazon Books Case Study](https://www.kaggle.com/kyle007hendricks/amazon-books-case)
-![alt text](markus-winkler-yeaUOU4JQxg-unsplash.jpg) 
+# [Project 3: Amazon Books Case Study](https://www.kaggle.com/kyle007hendricks/amazon-books-case)
+![alt text](fahrul-azmi-cFUZ-6i83vs-unsplash.jpg) 
 
 Photo by <a href="https://unsplash.com/@fahrulazmi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fahrul Azmi</a> on <a href="https://unsplash.com/s/photos/amazon-books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
